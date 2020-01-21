@@ -1,0 +1,1 @@
+protoc -o out/lua/test.pb proto/test.proto
